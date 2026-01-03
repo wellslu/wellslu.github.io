@@ -10,9 +10,7 @@ redirect_from:
 
 I am a Master's student in Electrical and Computer Engineering at the **University of California Santa Barbara (UCSB)**, advised by Prof. Peng Li. Currently, I am also a Research Intern at **Cornell University**, working with Prof. Saikat Dutta.
 
-My research interests lie in **Efficient Machine Learning** and **Systems for ML**, with a primary focus on enhancing the robustness, reliability, and efficiency of **Large Language Models (LLMs)**. I enjoy bridging the gap between algorithm design and hardware efficiency, as demonstrated by my experience in optimizing inference on edge devices.
-
-Previously, I worked as an AI Engineer at **Kipt** and **Open AI Fab**, where I developed efficient computer vision models for real-world applications. I hold a B.S. in Data Science from Soochow University.
+My research interests lie in **Systems for ML**, with a primary focus on enhancing the robustness, reliability, and efficiency of **Large Language Models (LLMs)**. Previously, I worked as an AI Engineer at **Merkle** and **Open AI Fab**, where I developed efficient computer vision models and MLOps pipeline for real-world applications. 
 
 **I am currently applying for PhD programs starting in Fall 2026.**
 
