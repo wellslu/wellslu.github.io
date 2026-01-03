@@ -4,7 +4,7 @@ excerpt: "Benchmarked inference speed of ResNet on Raspberry Pi 3 B+ using TVM, 
 collection: portfolio
 ---
 
-[cite_start]**Tools:** Python, Pytorch, C++, TVM, libtorch [cite: 47]
+**Tools:** Python, Pytorch, C++, TVM, libtorch 
 
 * Cross-compiled AI models (ResNet family) with TVM for implementation on Raspberry Pi 3 B+.
 * Conducted performance comparison between C++ source code execution and libtorch.
