@@ -13,9 +13,7 @@ Here is a summary of my professional experience in AI engineering and machine le
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electrical and Computer Engineering, UC Santa Barbara, 2024
 
 ## 🏢 Work Experience
 
@@ -39,12 +37,12 @@ Education
 * **MLOps Automation:** Refined MLOps pipelines on **GCP** to automate model updates for customer tagging projects, reducing manual workload by **80%**. 
 * **Algorithm Improvement:** Enhanced collaborative filtering algorithms, resulting in a **5% uplift** in sales performance verified through A/B testing.
 * **Mentorship & Optimization:** Mentored two interns to optimize program efficiency, successfully reducing RAM usage and data load time by nearly **50%**. 
-  
-Skills
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
