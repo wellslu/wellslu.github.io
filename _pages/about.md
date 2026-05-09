@@ -13,5 +13,6 @@ I am a Master's student in Electrical and Computer Engineering at the **Universi
 My research interests lie in **Systems for ML**, with a primary focus on enhancing the robustness, reliability, and efficiency of **Large Language Models (LLMs)**. Previously, I worked as an AI Engineer at **Merkle** and **Open AI Fab**, where I developed efficient computer vision models and MLOps pipeline for real-world applications. 
 
 ## 🔥 News
-* **[Sept. 2025]** Started independent research on mitigating LLM uncertainty with Prof. Peng Li at UCSB.
+* **[March 2026]** Started working as a Data Scientist Intern at NXP semiconductor. 
+* **[March 2026]** Started independent research on mitigating LLM uncertainty with Prof. Peng Li at UCSB.
 * **[June 2025]** Joined Cornell University as a Research Intern to work on the Omnicode benchmark for AI agents.
