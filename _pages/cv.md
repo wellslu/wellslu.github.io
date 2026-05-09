@@ -19,8 +19,8 @@ Education
 
 **AI Agent Engineer** @ [NXP Semiconductors](https://www.nxp.com/)  
 *March 2026 - Present (Incoming)*
-* **Developed and implemented IEA (Intelligence Engineering Assistant), an AI Agent that assists the design houses in analyzing and testing.*
-* **Deploying and designing FastAPI and Model Context Protocol(MCP) server as backend.*
+* **AI Agent Development:** Developed and implemented IEA (Intelligence Engineering Assistant), an AI Agent that assists the design houses in analyzing and testing.
+* **AI-Driven Backend Development:** Deploying and designing FastAPI and Model Context Protocol(MCP) server as backend.*
 
 **Artificial Intelligence Engineer** @ Kipt  
 *Feb. 2024 - June 2024*
