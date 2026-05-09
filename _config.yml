@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title: "Wei-Chung (Wells) Lu"
 title_separator: "-"
 name: "Wei-Chung (Wells) Lu"
-description: "PhD Applicant in Efficient ML & Systems"
+description: "Personal website of Wei-Chung (Wells) Lu, a Master's student at UCSB and Data Scientist Intern at NXP Semiconductors."
 url: "https://wellslu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wellslu/wellslu.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Wei-Chung (Wells) Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student at UCSB<br>Research Intern at Cornell"
-  location         : "Santa Barbara, CA"
+  bio              : "Master's student at UCSB<br>Data Scientist Intern at NXP Semiconductors<br>Former Research Intern at Cornell University"
+  location         : "Austin, Texas, USA"
   employer         : "UC Santa Barbara"
   uri              : # URL
-  email            : "w_lu@ucsb.edu"
+  email            : "wellslu.wc@gmail.com"
 
   # Academic websites
   # academia         : # URL
@@ -65,7 +65,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "wei-chung-lu-8b7268157" # Username
+  linkedin         : "wellslu819" # Username
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
